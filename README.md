@@ -1,3 +1,7 @@
+# About
+
+This is an angular project from Brad Traversy's Angular Crash Course
+
 # AngularTaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
